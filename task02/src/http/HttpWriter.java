@@ -1,5 +1,4 @@
-// TODO: Change to your package 
-package mypackage;
+package http;
 
 import java.io.*;
 
